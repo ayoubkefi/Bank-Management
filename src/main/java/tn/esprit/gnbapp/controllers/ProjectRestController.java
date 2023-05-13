@@ -58,8 +58,8 @@ public class ProjectRestController {
 
         /*
         // Envoyer un e-mail pour informer de l'ajout du projet
-        final String username = "souhailamri90@gmail.com"; // Adresse e-mail source
-        final String password = "fekiotqmbdxytssp"; // Mot de passe e-mail source
+        final String username = ""; // Adresse e-mail source
+        final String password = ""; // Mot de passe e-mail source
 
         Properties props = new Properties();
         props.put("mail.smtp.auth", "true");
